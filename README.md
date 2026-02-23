@@ -27,7 +27,3 @@ Data preprocessing is one of the most important steps in any ML workflow, and th
 - Matplotlib
 - TensorFlow / Keras (if used)
 - Jupyter Notebook
-
----
-
-## 📂 Project Structure
